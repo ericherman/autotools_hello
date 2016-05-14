@@ -53,5 +53,5 @@ REVISION
 ## "hello" project specific ##
 Makefile
 hello
-hello-1.tar.gz
+*.tar.gz
 stamp-h1
