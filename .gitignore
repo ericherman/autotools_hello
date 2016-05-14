@@ -49,3 +49,9 @@ lost+found
 # ignore ./contrib/gcc_update output
 LAST_UPDATED
 REVISION
+
+## "hello" project specific ##
+Makefile
+hello
+hello-1.tar.gz
+stamp-h1
