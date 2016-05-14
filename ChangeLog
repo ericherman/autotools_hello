@@ -1,4 +1,4 @@
 2016-05-14  Eric Herman <eric@freesa.org>
 
-	* hello.c: include the PACKAGE_STRING in the output
+	* hello.c: include commandline from or PACKAGE_STRING in the output
 	* ChangeLog: Freshly created ChangeLog.
