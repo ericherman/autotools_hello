@@ -7,7 +7,7 @@ AC_CONFIG_SRCDIR([hello.c])
 AC_CONFIG_HEADERS([config.h])
 
 # Checks for programs.
-AM_INIT_AUTOMAKE
+AM_INIT_AUTOMAKE([-Werror -Wall])
 AC_PROG_CC
 
 # Checks for libraries.
