@@ -55,3 +55,12 @@ Makefile
 hello
 *.tar.gz
 stamp-h1
+INSTALL
+Makefile.in
+aclocal.m4
+compile
+config.h.in
+configure
+depcomp
+install-sh
+missing
