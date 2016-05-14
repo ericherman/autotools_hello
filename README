@@ -4,6 +4,10 @@ Building
 --------
 autoreconf -iv && ./configure && make && make distcheck
 
+Notes
+-----
+Automake.am and configure.ac are the two files which are hand edited.
+
 License
 -------
 GNU General Public License (GPL), version 3 or later.
