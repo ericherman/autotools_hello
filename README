@@ -1,4 +1,11 @@
-Learning how to use autotools
+Learning how to use autotools.
+
+Building
+--------
+./configure && make && make distcheck
+
+If desired, the automatically generated files can be re-generated with
+ autoreconf -iv
 
 License
 -------
