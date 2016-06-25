@@ -1,6 +1,8 @@
 bin_PROGRAMS=hello
 hello_SOURCES=hello.c
 
+EXTRA_DIST=misc
+
 AM_CFLAGS=-std=c89 -ggdb -Wall -Wextra -Wpedantic -Werror
 
 # extracted from https://github.com/torvalds/linux/blob/master/scripts/Lindent
