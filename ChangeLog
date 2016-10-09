@@ -1,3 +1,14 @@
+2016-10-09  Eric Herman <eric@freesa.org>
+
+	License tidy and boilerplate, more in keeping with traditional style
+
+	* hello.c: copyright boilerplate
+	* misc/lgpl-3.0.txt: renamed to COPYING
+	* misc/gpl-3.0.txt: renamed to COPYING.GPL3
+	* COPYING: renamed from misc/lgpl-3.0.txt
+	* COPYING.GPL3: renamed from misc/gpl-3.0.txt
+	* README: reference new file names
+
 2016-05-14  Eric Herman <eric@freesa.org>
 
 	* hello.c: include commandline from or PACKAGE_STRING in the output
