@@ -1,7 +1,7 @@
 bin_PROGRAMS=hello
 hello_SOURCES=hello.c
 
-EXTRA_DIST=COPYING.GPL3
+EXTRA_DIST=COPYING.LESSER
 
 AM_CFLAGS=-std=c89 -pipe -ggdb -O2 -fomit-frame-pointer -Wall -Wextra -Wpedantic -Werror
 
